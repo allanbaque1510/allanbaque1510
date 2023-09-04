@@ -1,6 +1,5 @@
-### Hola soy Allan, bienvenido 👋
-
 ![Allan Baque - Programador Web](https://github.com/allanbaque1510/allanbaque1510/blob/main/assets/1.png)
+### Hola soy Allan, bienvenido 👋
 Soy programador💻 pero mi rubro no se enfoca unicamente en programacion web, aunque es lo que mas realizo tambien me dedico a:  
 - 🔑Creacion de Api
 - 🌐Backend
