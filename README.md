@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola soy Allan, bienvenido 👋
+Soy programador💻 pero mi rubro no se enfoca unicamente en programacion web, aunque es lo que mas realizo tambien me dedico a:  
+- 🔑Creacion de Api
+- 🌐Backend
+- 💻Frontend
+- 📊Inteligencia artificial
+- 🔎web scrapping
+- 📧web socket
+- 🎮Programacion de juegos
+
 
 <!--
 **allanbaque1510/allanbaque1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
