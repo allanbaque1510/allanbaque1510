@@ -10,6 +10,23 @@ Soy programador💻 pero mi rubro no se enfoca unicamente en programacion web, a
 - 📧web socket
 - 🎮Programacion de juegos
 > Me gusta seguir aprendiendo sobre nueva tecnologia y mejores metodos de trabajo
+
+## Herramientas y Frameworks
+<section align='center'>
+	<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white">
+&emsp;
+	<img alt="React" src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=white">
+&emsp;
+	<img alt="Express" src="https://img.shields.io/badge/Express-FFD200?style=for-the-badge&logo=express&logoColor=black">
+&emsp;
+<img alt="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">
+&emsp;
+<img alt="Unity" src="https://img.shields.io/badge/Unity-222c37?style=for-the-badge&logo=unity&logoColor=white">
+&emsp;
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF7F33?style=for-the-badge&logo=postman&logoColor=white">
+
+
+
 ## <picture> <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_960,w_480,f_auto,q_60/726941/629517_658046.gif?raw=true" width="50px"> </picture> Contactame
 <p align="center">
 	<a href="mailto:allanbaque1510@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
